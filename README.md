@@ -1,5 +1,3 @@
-### Hi there 👋, Marjan Kordani
-#### Development and Modeling
 ![Development and Modeling](https://pbs.twimg.com/profile_banners/1752437236480495616/1706648664/1080x360)
 
 I'm Marjan from Iran, and I do content on Modeling and Development in Water Resources Engineering. I really enjoy learning languages and Data Mining like Python and JavaScript, as well as working in Remote Sensing. My expertise spans various domains, including modeling rivers and coasts, forecasting natural disasters, hydrology modeling, water resources management, and Climate Modeling.
