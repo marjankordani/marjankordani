@@ -5,7 +5,7 @@ I'm Marjan from Iran, and I do content on Modeling and Development in Water Reso
 
 Skills: Python, Java Script, Remote Sensing, ArcGIS, HEC-RAC
 
-- 🔭 I’m currently working as a Research Assistant 
+- 🔭 I’m working as a Research Assistant 
 - 🌱 I’m currently learning SWAP 
 
 
