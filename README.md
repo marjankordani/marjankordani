@@ -5,7 +5,7 @@
 I'm Marjan from Iran, and I do content on Modeling and Development in Water Resources Engineering. I really enjoy learning languages and Data Mining like Python and JavaScript, as well as working in Remote Sensing. My expertise encompasses various domains, including modeling rivers and coasts, forecasting natural disasters, hydrological modeling, water resources management, and climate modeling.
 
 ## Skills and Experience
-* 💻 Python and Java Script
+* 💻 Python and JavaScript
 * 🛰️ Remote Sensing
 * 🌐 ArcGIS
 
