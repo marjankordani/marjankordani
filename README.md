@@ -1,6 +1,6 @@
 ![Development and Modeling](https://github.com/marjankordani/marjankordani/blob/main/freeCodeCamp.jpg)
 
-# Marjan Kordani
+# About me
 
 I'm Marjan from Iran, and I do content on Modeling and Development in Water Resources Engineering. I really enjoy learning languages and Data Mining like Python and JavaScript, as well as working in Remote Sensing. My expertise encompasses various domains, including modeling rivers and coasts, forecasting natural disasters, hydrological modeling, water resources management, and climate modeling.
 
